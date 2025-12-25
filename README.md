@@ -32,6 +32,19 @@ A comprehensive Streamlit dashboard for analyzing and visualizing Epic Games Sto
 - **CSV Export**: Download the dataset for offline analysis
 - **Column Information**: Detailed metadata about each column (type, null counts)
 
+### Screenshots:
+
+**Overview Page**
+![Overview](screenshots/p1-1.png)
+**Timeline Page**
+![Timeline](screenshots/p2-1.png)
+![Timeline](screenshots/p2-2.png)
+**Game Details Page**
+![Game Details](screenshots/p3-1.png)
+**Raw Data Page**
+![Raw Data](screenshots/p5-1.png)
+![Raw Data](screenshots/p5-2.png)
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
